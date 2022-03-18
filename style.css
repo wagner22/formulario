@@ -1,0 +1,21 @@
+.div.principal{
+    border-radius: 50px;
+    background-color:#7516ab99;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-justify: auto;
+}
+body{
+    background-color: rgb(238, 238, 245);
+
+}
+label{
+    display:block;
+    clear: left;
+}
+input{
+    padding-left: 10px;
+    border-radius: 5px;
+    text-size-adjust: 10px;
+}
